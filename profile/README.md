@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-hello@proxfield.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@proxfield.com)](mailto:hello@proxfield.com)
 [![Website Badge](https://img.shields.io/badge/-proxfield-004880?style=flat&logo=Nuget&logoColor=white&link=https://www.nuget.org/profiles/Proxfield)](https://www.nuget.org/profiles/Proxfield)
 
-<!--<p> We proud ourselves in offering high quality services related to IT, business processes and growth.</p>
+<!--<p> We proud ourselves in offering high quality services related to IT, business processes and growth.</p>-->
 
-<img src="https://github.com/proxfield/.github/blob/main/assets/proxfield-v3.png">-->
+<img src="https://github.com/proxfield/.github/blob/main/assets/proxfield-v3.png">
 
 
 
