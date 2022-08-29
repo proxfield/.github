@@ -8,7 +8,8 @@
 
 <!--<p> We proud ourselves in offering high quality services related to IT, business processes and growth.</p>-->
 
-<img src="https://github.com/proxfield/.github/blob/main/assets/proxfield-v3.png">
+
+![proxfield-v3](https://user-images.githubusercontent.com/7343019/187271026-9756b8ee-2bbe-40ea-bd0c-3ae4a97935e7.png)
 
 
 
