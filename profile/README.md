@@ -1,4 +1,4 @@
-## Hey, this is us 👋
+## Hey, this is Proxfield 👋
 
 [![Website Badge](https://img.shields.io/badge/-proxfield-000000?style=flat&logo=Github&logoColor=white&link=https://github.com/proxfield)](https://github.com/proxfield)
 [![Linkedin Badge](https://img.shields.io/badge/-proxfield-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/proxfield/)](https://www.linkedin.com/company/proxfield/)
