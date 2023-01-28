@@ -6,11 +6,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-hello@proxfield.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@proxfield.com)](mailto:hello@proxfield.com)
 [![Website Badge](https://img.shields.io/badge/-proxfield-004880?style=flat&logo=Nuget&logoColor=white&link=https://www.nuget.org/profiles/Proxfield)](https://www.nuget.org/profiles/Proxfield)
 
-<!--<p> We proud ourselves in offering high quality services related to IT, business processes and growth.</p>-->
-
-
-<!--![proxfield-v3](https://user-images.githubusercontent.com/7343019/187271026-9756b8ee-2bbe-40ea-bd0c-3ae4a97935e7.png)-->
-
-
 
 Welcome to the Proxfield GitHub!
