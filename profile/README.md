@@ -7,4 +7,5 @@
 [![Website Badge](https://img.shields.io/badge/-proxfield-004880?style=flat&logo=Nuget&logoColor=white&link=https://www.nuget.org/profiles/Proxfield)](https://www.nuget.org/profiles/Proxfield)
 
 
-Welcome to the Proxfield GitHub!
+Made by creative, talented and very experienced people, Proxfield® helps organizations to reach its full potential by providing a high range of services from business analytics to software solutions. We are proud on serving non-profits, state owned companies and business all over the globe.
+
