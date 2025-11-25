@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/proxfield/.github/main/assets/proxfield-v3.png" alt="Proxfield" width="400"/>
+  <img src="https://avatars.githubusercontent.com/u/102109871?s=200&v=4" alt="Proxfield" width="400"/>
   
   # Proxfield®
   
