@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102109871?s=200&v=4" alt="Proxfield" width="400"/>
+  <img src="https://raw.githubusercontent.com/proxfield/.github/main/assets/icon1024x1024.png" alt="Proxfield" width="400"/>
   
   # Proxfield®
   
@@ -61,6 +61,7 @@ We believe in giving back to the community. Check out our open source contributi
   
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -87,7 +88,7 @@ We welcome collaboration and contributions from the community!
 Have a project in mind? Let's work together!
 
 - 🌐 **Website**: [proxfield.com](https://proxfield.com)
-- 📧 **Email**: [hello@proxfield.com](mailto:hello@proxfield.com)
+- 📧 **Email**: [marco@proxfield.com](mailto:marco@proxfield.com)
 - 💼 **LinkedIn**: [linkedin.com/company/proxfield](https://www.linkedin.com/company/proxfield/)
 
 ---
