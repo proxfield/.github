@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/proxfield/.github/main/assets/icon1024x1024.png" alt="Proxfield" width="400"/>
-  
+<div align="center">  
   # Proxfield®
   
   ### Empowering Organizations Through Innovation
